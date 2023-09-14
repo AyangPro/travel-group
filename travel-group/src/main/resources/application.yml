@@ -130,20 +130,20 @@ qcloud:
   # OSS连接配置配置
   ######################################################
   key:
-    appId: 1304336794                                  # 应用Id
-    secretId: AKIDHOJ0SYTChz4vYw86tRvBD0Zu0tXx96pi     # 机密Id
-    secretKey: iBQQDl8GBrMfx3vZyBPZaRG2maMwLbow        # 机密钥匙
+    appId:                                   # 应用Id
+    secretId:      # 机密Id
+    secretKey:         # 机密钥匙
   ######################################################
   # OSS存储桶配置
   ######################################################
   bucket:
     header:
-      name: travel-header-url-1304336794               # 头像图片存储桶名称
-      url: https://travel-header-url-1304336794.cos.ap-nanjing.myqcloud.com  # 存储桶地址
+      name:                # 头像图片存储桶名称
+      url:   # 存储桶地址
     scenic:
-      name: travel-scenic-url-1304336794               # 景点图片存储桶名称
-      url: https://travel-scenic-url-1304336794.cos.ap-nanjing.myqcloud.com  # 存储桶地址
-    cosRegion: ap-nanjing                              # OSS地点
+      name:                # 景点图片存储桶名称
+      url:   # 存储桶地址
+    cosRegion:                               # OSS地点
 ########################################################
 #
 # 常量配置
